@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Define variables
-DESTINATION_NODE_DELEGATION="bbnvaloper1wftzqpcyhtdcywscyqax6fl8v6w43wqskd43s0"
-AMOUNT_SEND="1000000"
-AMOUNT_FEES_DELEGATION_TX="1000ubbn"
+DESTINATION_NODE_DELEGATION="bbnvaloper_NODE_ADDRESS" # Replace NODE_ADDRESS with the validator address
+AMOUNT_SEND="1000000" # in ubbn = 1 BBN
+AMOUNT_FEES_DELEGATION_TX="1000ubbn" # Amount of fees to be paid for delegation transaction
 
 # Colors for messages
 RED='\033[0;31m'
