@@ -1,6 +1,9 @@
 # BabyD: A Lightweight Wrapper for BabylonChain Node Management
 
-Babyd is a user-friendly script designed as a lightweight wrapper for the BabylonChain node management, resembling a "baby" version of the `babylond` CLI. It simplifies various operations like staking and balance checking on the BabylonChain network.
+Babyd is a user-friendly script designed as a lightweight wrapper for the BabylonChain node management, resembling a "baby" version of the `babylond` CLI. 
+It simplifies various operations like staking and balance checking on the BabylonChain network.
+
+![2024-01-11 15_57_28-Window](https://github.com/defi-school/babyd/assets/10072713/3c466811-2cd9-405d-994f-bfe66a601bdb)
 
 ## Features
 
