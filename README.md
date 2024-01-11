@@ -16,15 +16,15 @@ Babyd is a user-friendly script designed as a lightweight wrapper for the Babylo
 
 ## `wallets.txt` File Format
 
-Each line in the file should follow this format:
+Each line in the file should follow this format dont use space in wallet name and keep space between arround " : " .
 
 Example:
 
 ```
-Wallet 1 : bbn1fuspxl8q7hlt
-Wallet 2 : bbn1d57yxx6tql558h8uk46p
-Wallet 3 : bbn1uaqwsxl
-Wallet 4 : bbn15g6mzatn
+Wallet1 : bbn1fuspxl8q7hlt
+Wallet2 : bbn1d57yxx6tql558h8uk46p
+Wallet3 : bbn1uaqwsxl
+Wallet4 : bbn15g6mzatn
 ```
 
 ## Usage
