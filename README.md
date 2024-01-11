@@ -16,7 +16,7 @@ Babyd is a user-friendly script designed as a lightweight wrapper for the Babylo
 
 ## `wallets.txt` File Format
 
-Each line in the file should follow this format dont use space in wallet name and keep space between arround " : " .
+Each line in the file should follow this format dont use space in wallet name and keep space arround " : " .
 
 Example:
 
@@ -71,7 +71,7 @@ Once you have obtained the script, follow the instructions in the README to make
 
 ## Contributions
 
-Your contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) for contributing.
+Your contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/defi-school/babyd) for contributing.
 
 ## License
 
